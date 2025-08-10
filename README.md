@@ -76,7 +76,7 @@ There is a list of keyboard shortcuts within the application under the Help menu
 The application automatically creates and manages the following folder structure:
 
 ```
-Main_Data_Location/
+Main_Data_Location (Working Directory)/
 ├── [ItemNumber1]/              # Auto-created folders for each item
 │   ├── RPO[number].json       # Saved data files
 │   ├── RPO[number].txt        # Tab-delimited export
